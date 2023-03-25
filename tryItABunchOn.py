@@ -1,7 +1,7 @@
 import time
 from random import choice
 
-#O (m+n+n graph)
+#O(n)
 
 def tryItABunch3(numTrials):
     nVals = [2**k for k in range(9)] # let's try it at a bunch of powers of 2, we'll see why later...
