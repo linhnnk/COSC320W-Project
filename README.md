@@ -59,5 +59,5 @@ Results: Shila, Linh, Ravil
 Unexpected Cases/Difficulties: Shila, Linh
 Additional information: https://github.com/linhnnk/COSC320W-Project 
 
-** The "merged_csv_dataset_forTweet" database is a small overview of the complete database we experiment from. Here is the Google Drive link for the complete database: https://drive.google.com/file/d/1UxrdenkiNUOZFc-0fm0VoYZuEiU-0mqd/view?usp=sharing 
+**The "merged_csv_dataset_forTweet" database is a small overview of the complete database we experiment from. Here is the Google Drive link for the complete database:** https://drive.google.com/file/d/1UxrdenkiNUOZFc-0fm0VoYZuEiU-0mqd/view?usp=sharing 
 
